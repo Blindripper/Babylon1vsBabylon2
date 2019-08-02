@@ -1,4 +1,4 @@
-# Babylon 1.0 vs. Babylon2.0
+# Babylon 1.0 vs. Babylon 2.0
 
 Comparison of protocol changes
 
